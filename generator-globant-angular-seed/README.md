@@ -22,7 +22,7 @@ If you don't know what Yeoman is, [start here](http://yeoman.io/)
 *While the generator is not available in npm:*  
 
 ```
-$ git clone git@github.com:GlobantMobileStudio/webmobile-basecode.git angularSeed
+$ git clone https://github.com/asainz/angular-seed.git angularSeed
 $ cd angularSeed/
 $ git checkout -b angular-seed-master origin/angular-seed-master
 $ cd generator-globant-angular-seed/
