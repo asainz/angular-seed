@@ -24,7 +24,7 @@ If you don't know what Yeoman is, [start here](http://yeoman.io/)
 ```
 $ git clone https://github.com/asainz/angular-seed.git angularSeed
 $ cd angularSeed/
-$ git checkout -b angular-seed-master origin/angular-seed-master
+$ git checkout -b angular-seed-master origin/master
 $ cd generator-globant-angular-seed/
 $ npm link #this will create a symlink to /usr/local/lib/node_modules/ which will make the generator available for yeoman
 ```
